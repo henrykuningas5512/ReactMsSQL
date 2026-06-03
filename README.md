@@ -40,5 +40,5 @@ http://localhost:5000
 Frontend:
 http://localhost:5173
 
-##API töötab aadressil:
+### API töötab aadressil:
 http://localhost:5000/api/games
